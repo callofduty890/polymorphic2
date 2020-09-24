@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADD_ClassLibrary", "ADD_Cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_里氏转换", "03_里氏转换\03_里氏转换.csproj", "{879DE36D-D251-4014-BA40-374DF57F285F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习题", "练习题\练习题.csproj", "{450239CB-B9A2-4BD2-BDF7-877C2E34BEB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{879DE36D-D251-4014-BA40-374DF57F285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{879DE36D-D251-4014-BA40-374DF57F285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{879DE36D-D251-4014-BA40-374DF57F285F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450239CB-B9A2-4BD2-BDF7-877C2E34BEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450239CB-B9A2-4BD2-BDF7-877C2E34BEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450239CB-B9A2-4BD2-BDF7-877C2E34BEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450239CB-B9A2-4BD2-BDF7-877C2E34BEB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
